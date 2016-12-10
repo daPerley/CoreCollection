@@ -9,6 +9,8 @@ Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "LanguageFeatures", "Languag
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Razor", "Razor\Razor.xproj", "{3636BF0E-EE86-402B-9952-5918149F1FB8}"
 EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "WorkingWithVisualStudio", "WorkingWithVisualStudio\WorkingWithVisualStudio.xproj", "{96BB64F0-BBD0-45BC-BAC9-EC5E8CDAFEAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3636BF0E-EE86-402B-9952-5918149F1FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3636BF0E-EE86-402B-9952-5918149F1FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3636BF0E-EE86-402B-9952-5918149F1FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96BB64F0-BBD0-45BC-BAC9-EC5E8CDAFEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96BB64F0-BBD0-45BC-BAC9-EC5E8CDAFEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96BB64F0-BBD0-45BC-BAC9-EC5E8CDAFEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96BB64F0-BBD0-45BC-BAC9-EC5E8CDAFEAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
