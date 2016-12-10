@@ -22,6 +22,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{9FAEF55B-0
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "WorkingWithVisualStudio.Tests", "test\WorkingWithVisualStudio.Tests\WorkingWithVisualStudio.Tests.xproj", "{CA11A77E-BE71-4050-BD0D-4E2F3BD8CBF4}"
 EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "SportsStore", "SportsStore\SportsStore.xproj", "{71AE64FA-DE01-4AFD-9E08-CABFFE27DF73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,6 +50,10 @@ Global
 		{CA11A77E-BE71-4050-BD0D-4E2F3BD8CBF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA11A77E-BE71-4050-BD0D-4E2F3BD8CBF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA11A77E-BE71-4050-BD0D-4E2F3BD8CBF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71AE64FA-DE01-4AFD-9E08-CABFFE27DF73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71AE64FA-DE01-4AFD-9E08-CABFFE27DF73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71AE64FA-DE01-4AFD-9E08-CABFFE27DF73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71AE64FA-DE01-4AFD-9E08-CABFFE27DF73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,5 +64,6 @@ Global
 		{3636BF0E-EE86-402B-9952-5918149F1FB8} = {F7B93BA1-492C-4DD4-830C-3750CEDF6939}
 		{96BB64F0-BBD0-45BC-BAC9-EC5E8CDAFEAA} = {F7B93BA1-492C-4DD4-830C-3750CEDF6939}
 		{CA11A77E-BE71-4050-BD0D-4E2F3BD8CBF4} = {9FAEF55B-0A4E-423C-B38C-70758FBABA03}
+		{71AE64FA-DE01-4AFD-9E08-CABFFE27DF73} = {F7B93BA1-492C-4DD4-830C-3750CEDF6939}
 	EndGlobalSection
 EndGlobal
