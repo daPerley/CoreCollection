@@ -215,6 +215,8 @@ E:\Projects\VisualStudio\CoreCollection\SportsStore\Migrations\20161210191637_In
 E:\Projects\VisualStudio\CoreCollection\SportsStore\Migrations\20161210191637_Initial.Designer.cs
 E:\Projects\VisualStudio\CoreCollection\SportsStore\Migrations\20161211215723_Orders.cs
 E:\Projects\VisualStudio\CoreCollection\SportsStore\Migrations\20161211215723_Orders.Designer.cs
+E:\Projects\VisualStudio\CoreCollection\SportsStore\Migrations\20161212111527_ShippedOrders.cs
+E:\Projects\VisualStudio\CoreCollection\SportsStore\Migrations\20161212111527_ShippedOrders.Designer.cs
 E:\Projects\VisualStudio\CoreCollection\SportsStore\Migrations\ApplicationDbContextModelSnapshot.cs
 E:\Projects\VisualStudio\CoreCollection\SportsStore\Models\ApplicationDbContext.cs
 E:\Projects\VisualStudio\CoreCollection\SportsStore\Models\Cart.cs

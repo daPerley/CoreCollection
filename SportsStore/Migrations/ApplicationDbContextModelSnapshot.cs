@@ -59,6 +59,8 @@ namespace SportsStore.Migrations
                     b.Property<string>("Name")
                         .IsRequired();
 
+                    b.Property<bool>("Shipped");
+
                     b.Property<string>("State")
                         .IsRequired();
 
@@ -66,7 +68,7 @@ namespace SportsStore.Migrations
 
                     b.HasKey("OrderId");
 
-                    b.ToTable("ORders");
+                    b.ToTable("Orders");
                 });
 
             modelBuilder.Entity("SportsStore.Models.Product", b =>
